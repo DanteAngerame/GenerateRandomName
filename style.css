@@ -6,16 +6,17 @@ body {
     justify-content: center;
     align-items: center;
 }
-#displayQuestion {
+#displayname {
     margin-top: 20px;
-    font-size: 20px; /* Larger text for visibility */
+    font-size: 40px; /* Larger text for visibility */
+    font-family: "Lugrasimo", cursive;
 }
 nav {
     position: fixed; /* Fix position to the top of the viewport */
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #007bff; /* Bootstrap primary color */
+    background-color: #be2342; /* Bootstrap primary color */
     padding: 10px 0;
     text-align: center;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Subtle shadow for depth */
