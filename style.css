@@ -34,3 +34,8 @@ nav a {
     font-size: 18px;
     padding: 10px 15px;
 }
+
+#legends {
+    font-family: "Jersey 20", sans-serif;
+    font-size: 40px;
+}
